@@ -9,3 +9,5 @@
 Инструкция по установке: https://drive.google.com/file/d/1bl1wylKKy9-YXMeMU4UNn87SyHP1yYLE/view?usp=share_link
 
 Архитектура нейросети: https://drive.google.com/file/d/1fQzVTmazZ7_M_bFXgHM9nZ4NhZdjKRje/view?usp=share_link
+
+Руководство пользователя: https://drive.google.com/file/d/1sGMopjnIjHGA6lxWKf8VMfVO8_xtJ_KX/view?usp=share_link
